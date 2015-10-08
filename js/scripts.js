@@ -6,13 +6,13 @@ $(document).ready(function() {
     var favoritecocktailInput = $("input#favoritecocktail").val();
     var favoritejamovieInput = $("input#favoritejamovie").val();
 
-    $".name".text("nameInput");
-    $".embarassing".text("embarassingInput");
-    $".namefavoritetmnt".text("namefavoritetmntInput");
-    $".favoritecocktail".text("favoritecocktailInput");
-    $".favoritejamovie".text("favoritejamovieInput");
+    $(".name").text(nameInput);
+    $(".embarassing").text(embarassingInput);
+    $(".namefavoritetmnt").text(namefavoritetmntInput);
+    $(".favoritecocktail").text(favoritecocktailInput);
+    $(".favoritejamovie").text(favoritejamovieInput);
 
-    $"#confirmation".show();
+    $("#confirmation").show();
 
     event.preventDefault();
 
