@@ -19,7 +19,7 @@ Utilize link below to GitHub page.
 
 ##Link to GitHub Pages
 
-*
+http://jackwaibel.github.io/jquery-code-review/
 
 ##Legal
 
